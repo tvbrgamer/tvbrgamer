@@ -74,4 +74,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tvbrgamer&theme=rising-sun" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvbrgamer&theme=tokyo-night&area=true&hide_border=true&hide_title=false&bg_color=0d1117&area_color=0066ff&point=FFFFFF&title_color=FFFFFF&line=0051ca&color=FFFFFF" height="200" alt="activity-graph graph"  />
+
+</div>
 </div>
