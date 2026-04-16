@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Freelacer<br>- 📚 I'm currently learning React & Node<br>- ⚡ In my free time I Code & Play 🎮</p>
+<p align="left">- 🚀 Construindo o futuro da web utilizando React e Node.js<br>- 🔭 I’m working as Freelancer <br>- 👾 Gamer nas horas vagas<br>- 🐧 I use Cachy OS btw </p>
 
 ###
 
